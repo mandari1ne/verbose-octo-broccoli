@@ -1,0 +1,15 @@
+Transport: Airplane
+Distance: 500 km
+Time: 0.62 hours
+Cost: 50.0 dollars
+
+Transport: Train
+Distance: 500 km
+Time: 4.17 hours
+Cost: 25.0 dollars
+
+Transport: Car
+Distance: 500 km
+Time: 8.33 hours
+Cost: 40.0 dollars
+
